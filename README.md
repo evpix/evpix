@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi, I'm Mikhail 👋
 
-<!--
-**evpix/evpix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+Software/Game developer and Linux user.
 
-Here are some ideas to get you started:
+## Current projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Software
+- **Shellico** - Free personal database manager — an alternative to Memento Database and Tellico.
+- **PolyCraft** - A 3D tool that combines CAD and LowPoly capabilities, inspired by SketchUp, Blender, and Blockbench for architecture and game design.
+- **Puntonix** - A utility for Linux that automatically switches keyboard layouts, an alternative to Punto Switcher and Caramba Switcher.
+- **Dialogix** - A simple and powerful tool for creating complex branching non-linear dialogues.
+
+### Games
+- Recovery **[10+]**
+- Door 0x3E8 **[16+]**
+- LibreCraft **[12+]**
+- Habitoria **[16+]**
+- Transfiguration **[18+]**
+- A Near Connection **[18+]**
+- Deep Submarines **[12+]**
+- Harry Potter 1/2/3 Remake **[8+]**
+- Yara the Warrior **[18+]**
+- Summer Mirage **[16+]**
+- Shadow of Desires **[18+]**
+- Paradox of Love **[18+]**
+- Binary Love **[18+]**
+- Depthbound **[14+]**
+- Contained Lust **[18+]**
+- Avatar: The Last Rearbender **[18+]**
+
+## Contacts
+- VK: https://vk.com/evpix
+- Telegram: https://t.me/evpix
+- Pikabu: https://pikabu.ru/@EvPix
+- RuTube: https://rutube.ru/u/EvPix/
+- Boosty: https://boosty.to/evpix
