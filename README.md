@@ -27,7 +27,7 @@ Software/Game developer and Linux user.
 - Binary Love **[18+]**
 - Depthbound **[14+]**
 - Contained Lust **[18+]**
-- Avatar: The Last Rearbender **[18+]**
+- Avatar: The Legend of Aang **[18+]**
 
 ## Contacts
 - VK: https://vk.com/evpix
