@@ -1,6 +1,5 @@
 ## Hi, I'm Mikhail 👋
 
-## About me
 Software/Game developer and Linux user.
 
 ## Current projects
